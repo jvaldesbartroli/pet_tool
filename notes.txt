@@ -1,0 +1,8 @@
+a PHP script that constantly scans the webcam from the Trolley Cart Table Tennis Club and alerts the user when there is movement 
+
+webcam:
+https://video.nest.com/embedded/live/0PC1sy?autoplay=1%22
+
+
+image analysis library:
+https://www.pureftpd.org/project/libpuzzle
